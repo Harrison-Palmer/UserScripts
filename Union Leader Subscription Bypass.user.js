@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @require http://code.jquery.com/jquery-3.4.1.min.js
 // @version      1.0
-// @description  Subscription Bypass
+// @description  Removes all popups and elements demanding a UL subscription and shows the entire webpage article.
 // @author       Harrison Palmer
 // @match        https://www.unionleader.com/*
 // @grant        none
